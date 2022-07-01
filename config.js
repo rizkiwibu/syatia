@@ -10,18 +10,18 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285878836361']
-global.pengguna = 'Ikystore'
+global.owner = ['6283836585839']
+global.pengguna = 'KaumGabut'
 global.premium = []
-global.author = 'Ikystore'
-global.pemilik = ['6285878836361'] 
-global.ownernomer = '6285878836361'
-global.ownername = 'rizki'
-global.botname = 'Ikybot- MD'
+global.author = 'KaumGabut'
+global.pemilik = ['6283836585839'] 
+global.ownernomer = '6283836585839'
+global.ownername = 'KaumGabut'
+global.botname = 'botsyariah'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6285878836361'
-global.footer = 'Ikybot- 𝘔 𝘋'
+global.meki = '6283836585839'
+global.footer = 'botsyariah'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'ikybot' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
@@ -29,14 +29,14 @@ global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://youtube.com/channel/UC4nKoTls09OfD-GUTKt-6OA' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
 global.ig = 'https://instagram.com/ikykunnnn'
 global.gc = 'https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
-global.dana = '6283817161861'
-global.gopay = '6283817161861'
-global.wame = 'wa.me/6285878836361'
+global.dana = '083147545289'
+global.gopay = '083147545289'
+global.wame = 'wa.me/6283836585839'
 global.email = '-'
 global.region = 'indojepang'
-global.link = 'nekopoi.care'
+global.link = 'https://github.com/rizkiwibu'
 global.sc = 'https://github.com/rizkiwibu/waifungantuk'
-global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6281328216693"\n"Bot Name: ikybot - MD"\n"Instagram: @ikykunnnn"\n}' 
+global.packname = '"{\nAuthor: botsyariah"\n"Bot Number: 083147545289"\n"Bot Name: botsyariah"\n"Instagram: @ikykunnnn"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
