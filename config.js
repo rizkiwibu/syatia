@@ -23,7 +23,7 @@ global.Prefix = 'Multi Prefix'
 global.meki = '6283836585839'
 global.footer = 'botsyariah'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'ikybot' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'botsyariah' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://youtube.com/channel/UC4nKoTls09OfD-GUTKt-6OA' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
